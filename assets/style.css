@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+.container { max-width: 960px; margin: 0 auto; padding: 20px; }
+header, footer { background-color: #f7f7f7; padding: 20px; }
+nav a { margin-right: 10px; color: #333; text-decoration: none; }
+h1, h2, h3 { margin-top: 0; }
+blockquote { border-left: 4px solid #ccc; padding-left: 10px; font-style: italic; color: #555; }
